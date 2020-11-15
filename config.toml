@@ -1,10 +1,15 @@
 # Site settings
+
 baseurl = "https://juneli.github.io/portfolio"
 title = "Juneli Kura"
 languageCode = "en-us"
 # TODO add content for links here
 sectionPagesMenu = "main"
 theme = "frances"
+
+# ensure base url is always prefixed to all asset urls
+# (needed for serving frances theme js/css properly)
+canonifyURLs = true
 
 [params]
 	name = "Jyotsna Dhakal"

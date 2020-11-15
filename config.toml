@@ -1,3 +1,10 @@
-baseURL = "http://example.org/"
+# Site settings
+baseurl = "https://example.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+sectionPagesMenu = "main"
+
+[params]
+	name = "Frances Hodgkins"
+	description = "Landscape and still-life painter from New Zealand"
+	email = "frances@hodgkins.io"
+	author = "Frances Hodgkins"

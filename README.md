@@ -14,4 +14,4 @@ git submodule update --init --recursive
 hugo server
 ```
 
-Website will be available for testing at [http://localhost:1313/](http://localhost:1313/). Happy hacking!
+Website will be available for testing at [http://localhost:1313/portfolio/](http://localhost:1313/portfolio/). Happy hacking!

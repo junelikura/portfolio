@@ -1,11 +1,14 @@
 # Site settings
-baseurl = "https://example.com"
+baseurl = "https://juneli.github.io"
+title = "Juneli Kura"
 languageCode = "en-us"
+# TODO add content for links here
 sectionPagesMenu = "main"
 theme = "frances"
 
 [params]
-	name = "Frances Hodgkins"
-	description = "Landscape and still-life painter from New Zealand"
-	email = "frances@hodgkins.io"
-	author = "Frances Hodgkins"
+	name = "Jyotsna Dhakal"
+  # TODO
+	description = "Juneli Kura"
+	email = "jyotsna.dhakal20@gmail.com"
+	author = "Jyotsna Dhakal"

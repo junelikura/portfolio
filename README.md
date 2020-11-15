@@ -5,7 +5,7 @@ Simple portfolio website, powered by [Hugo](https://gohugo.io/) and [frances the
 ## Quickstart
 
 ```sh
-git clone https://github.com/junelikura/website.git
+git clone https://github.com/junelikura/portfolio.git
 
 # initialize the frances theme
 git submodule update --init --recursive

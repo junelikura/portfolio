@@ -1,0 +1,159 @@
+[[artworks]]
+#title = "Acrylic on wood panels"
+alt = "TODO alt"
+#description = "TODO description"
+mediums = "Acrylic on wood panels"
+image = "img/collage-painting.jpg"
+thumb = "img/thumbs/collage-painting.png"
+
+[[artworks]]
+#title = "Watercolor"
+alt = "TODO alt"
+#description = "TODO description"
+mediums = "Watercolor"
+image = "img/mani1.jpg"
+thumb = "img/thumbs/mani1-thumb.gif"
+
+[[artworks]]
+#title = "Watercolor"
+alt = "TODO alt"
+# = "TODO description"
+mediums = "Watercolor"
+image = "img/mani2.jpg"
+thumb = "img/thumbs/mani2-thumb.gif"
+
+[[artworks]]
+#title = "Editorial illustration"
+alt = "TODO alt"
+description = "Editorial illustration"
+mediums = " Pencil and watercolor"
+image = "img/hands.png"
+thumb = "img/thumbs/hands-thumb.gif"
+
+[[artworks]]
+#title = "Illustration for a children's literary magazine"
+alt = "TODO alt"
+description = "Illustration for a children's literary magazine"
+mediums = "Ink and watercolor"
+image = "img/mango-birds.png"
+thumb = "img/thumbs/mango-birds-thumb.gif"
+
+[[artworks]]
+#title = "Editorial illustration"
+alt = "TODO alt"
+description = "Editorial illustration"
+mediums = "Digital"
+image = "img/rabbit.png"
+thumb = "img/thumbs/rabbit-thumb.gif"
+
+[[artworks]]
+#title = "Rendition of Boudhanath, Nepal"
+alt = "TODO alt"
+description = "Rendition of Boudhanath, Nepal"
+mediums = "Digital"
+image = "img/boudha.png"
+thumb = "img/thumbs/boudha.png"
+
+[[artworks]]
+#title = "spots"
+alt = "TODO alt"
+description = "Editorial illustrations"
+mediums = "Gouache"
+image = "img/spots.jpg"
+thumb = "img/thumbs/spots.png"
+
+[[artworks]]
+#title = "multitask"
+alt = "TODO alt"
+description = "Editorial illustrations"
+mediums = "Watercolor, colored pencils"
+image = "img/multitask.png"
+thumb = "img/thumbs/multitask.png"
+
+[[artworks]]
+#title = "political"
+alt = "TODO alt"
+description = "Political cartoon"
+mediums = "Ink"
+image = "img/political.png"
+thumb = "img/thumbs/political.png"
+
+[[artworks]]
+#title = "bookcover1"
+alt = "TODO alt"
+description = "Bookcover mockup"
+mediums = "Watercolor"
+image = "img/bookcover1.jpg"
+thumb = "img/thumbs/bookcover1.png"
+
+[[artworks]]
+#title = "bookcover2"
+alt = "TODO alt"
+description = "Bookcover mockup"
+#mediums = "Watercolor"
+image = "img/bookcover2.png"
+thumb = "img/thumbs/bookcover2.png"
+
+[[artworks]]
+#title = "Cycle MA Poster"
+alt = "TODO alt"
+description = "Selected poster for Cycle Massachusetts State Bike Tour 2018"
+#mediums = "TODO mediums"
+image = "img/cycle-ma-poster.png"
+thumb = "img/thumbs/cycle-ma-poster-thumb.gif"
+
+[[artworks]]
+#title = "Sangraha Poster"
+alt = "TODO alt"
+description = "Launch poster for http://www.sangraha.org/"
+#mediums = "TODO mediums"
+image = "img/sangraha-poster.png"
+thumb = "img/thumbs/sangraha-poster-thumb.gif"
+
+[[artworks]]
+#title = "Tuck Everlasting Poster"
+alt = "TODO alt"
+description = "Entry poster for Cape Cod Theatre Company"
+#mediums = "TODO mediums"
+image = "img/tuck-poster.png"
+thumb = "img/thumbs/tuck-poster-thumb.gif"
+
+[[artworks]]
+#title = "Dog Chew Label"
+alt = "TODO alt"
+description = "Commissioned label for a dog chew company"
+#mediums = "TODO mediums"
+image = "img/dog-chew-label.png"
+thumb = "img/thumbs/dog-chew-label-thumb.gif"
+
+[[artworks]]
+#title = "Sketchbook roughs"
+alt = "TODO alt"
+description = "Sketchbook roughs"
+#mediums = "TODO mediums"
+image = "img/sketchbook-roughs.png"
+thumb = "img/thumbs/sketchbook-roughs.png"
+
+[[artworks]]
+#title = "Juggling"
+alt = "TODO alt"
+description = "Digital animation"
+#mediums = "TODO mediums"
+image = "img/juggle.gif"
+thumb = "img/thumbs/juggle.png"
+
+[[artworks]]
+#title = "Dervish"
+alt = "TODO alt"
+description = "Digital animation"
+#mediums = "TODO mediums"
+image = "img/dervish.gif"
+thumb = "img/thumbs/dervish.png"
+
+[[artworks]]
+#title = "Expressive type"
+alt = "TODO alt"
+description = "Expressive type"
+#mediums = "TODO mediums"
+image = "img/type.gif"
+thumb = "img/thumbs/type.png"

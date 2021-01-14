@@ -13,7 +13,6 @@ theme = "frances"
 canonifyURLs = true
 
 [params]
-  name = "junelikura"
-  # TODO
-  description = "Juneli Kura"
-  author = "J Dhakal"
+  name = "Jyotsna Dhakal"
+  description = "Jyotsna's Website"
+  author = "Jyotsna Dhakal"

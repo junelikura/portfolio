@@ -1,6 +1,7 @@
 # Site settings
 
-baseurl = "https://junelikura.github.io/portfolio"
+baseurl = "https://www.jyotsnadhakal.com/"
+
 title = "Juneli Kura"
 languageCode = "en-us"
 # TODO add content for links here

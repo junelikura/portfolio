@@ -1,6 +1,6 @@
 # Site settings
 
-baseurl = "https://www.jyotsnadhakal.com/"
+baseurl = "/"
 
 title = "Juneli Kura"
 languageCode = "en-us"

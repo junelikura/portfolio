@@ -22,13 +22,13 @@ mediums = "Watercolor"
 image = "img/mani2.jpg"
 thumb = "img/thumbs/mani2-thumb.gif"
 
-[[artworks]]
-#title = "Illustration for a children's literary magazine"
-alt = "TODO alt"
-description = "Commissioned cover illustration submission for upcoming <i>Neuron</i> journal issue"
-mediums = "Digital"
-image = "img/neuron.png"
-thumb = "img/thumbs/neuron-thumb.png"
+#[[artworks]]
+##title = "Commissioned cover illustration submission for upcoming <i>Neuron</i> journal issue"
+#alt = "TODO alt"
+#description = "Commissioned cover illustration submission for upcoming <i>Neuron</i> journal issue"
+#mediums = "Digital"
+#image = "img/neuron.png"
+#thumb = "img/thumbs/neuron-thumb.png"
 
 [[artworks]]
 #title = "Editorial illustration"

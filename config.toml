@@ -14,5 +14,6 @@ canonifyURLs = true
 
 [params]
   name = "Jyotsna Dhakal"
-  description = "Jyotsna's Website"
+  #description = "Jyotsna's Website"
+  email = "hello@jyotsnadhakal.com"
   author = "Jyotsna Dhakal"

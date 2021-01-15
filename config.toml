@@ -13,13 +13,10 @@ canonifyURLs = true
 # enable all of theme's menu items
 sectionPagesMenu = "main"
 
-# disable /posts and taxonomies
+# disable /posts, /categories, /tags
 disableKinds = ["page", "taxonomy", "term"]
 
 ###############################################################################
-
-# disable /categories, /tags
-[Taxonomies]
 
 # custom navigation menu
 # navigation menu items

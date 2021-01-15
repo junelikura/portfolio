@@ -18,18 +18,12 @@ disableKinds = ["page", "taxonomy", "term"]
 
 ###############################################################################
 
-# custom navigation menu
-# navigation menu items
+# custom navigation menu items
 #[[menu.main]]
 #  identifier = "contact"
 #  name = "Contact"
-#  title = "Contact"
-#  url = "/contact/"
-#[[menu.main]]
-#  identifier = "about"
-#  name = "About"
-#  title = "About Me"
-#  url = "/about/"
+#  title = "Email"
+#  url = "mailto:hello@jyotsnadhakal.com"
 
 # render raw html
 [markup.goldmark.renderer]
@@ -37,6 +31,8 @@ unsafe= true
 
 [params]
   name = "Jyotsna Dhakal"
-  #description = "" # TODO
+  # TODO
+  #description = "Illustrator and graphic designer"
   email = "hello@jyotsnadhakal.com"
   author = "Jyotsna Dhakal"
+  keywords = "illustration, graphic design, art, illustrator, graphic designer, artist"

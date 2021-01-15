@@ -6,4 +6,5 @@ authorImage : "img/about/author.jpg"
 type: "post"
 ---
 
-Illustration and graphic design graduate; accepting commissions.
+<img src="/img/meow.png" alt="meow" width="100"/>
+<p>Illustration and graphic design graduate;<br/>accepting commissions.</p>

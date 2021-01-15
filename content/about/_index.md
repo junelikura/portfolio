@@ -7,4 +7,5 @@ type: "post"
 ---
 
 <p><img src="/img/meow.png" width="100"/></p>
-<p>Illustration and graphic design graduate;<br/>accepting commissions.</p>
+
+Illustration and graphic design graduate;<br/>[accepting](mailto:hello@jyotsnadhakal.com) commissions.

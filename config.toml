@@ -2,18 +2,32 @@
 
 baseurl = "/"
 
-title = "Juneli Kura"
+title = "Jyotsna Dhakal"
 languageCode = "en-us"
-# TODO add content for links here
-#sectionPagesMenu = "main"
 theme = "frances"
 
 # ensure base url is always prefixed to all asset urls
 # (needed for serving frances theme js/css properly)
 canonifyURLs = true
 
+# enable all of theme's menu items
+#sectionPagesMenu = "main"
+
+# navigation menu items
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  title = "Contact"
+  url = "/contact/"
+# TODO add content here and enable
+#[[menu.main]]
+#  identifier = "about"
+#  name = "About"
+#  title = "About me"
+#  url = "/about/"
+
 [params]
   name = "Jyotsna Dhakal"
-  #description = "Jyotsna's Website"
+  #description = "" # TODO
   email = "hello@jyotsnadhakal.com"
   author = "Jyotsna Dhakal"

@@ -11,19 +11,27 @@ theme = "frances"
 canonifyURLs = true
 
 # enable all of theme's menu items
-#sectionPagesMenu = "main"
+sectionPagesMenu = "main"
 
+# disable /posts and taxonomies
+disableKinds = ["page", "taxonomy", "term"]
+
+###############################################################################
+
+# disable /categories, /tags
+[Taxonomies]
+
+# custom navigation menu
 # navigation menu items
-[[menu.main]]
-  identifier = "contact"
-  name = "Contact"
-  title = "Contact"
-  url = "/contact/"
-# TODO add content here and enable
+#[[menu.main]]
+#  identifier = "contact"
+#  name = "Contact"
+#  title = "Contact"
+#  url = "/contact/"
 #[[menu.main]]
 #  identifier = "about"
 #  name = "About"
-#  title = "About me"
+#  title = "About Me"
 #  url = "/about/"
 
 [params]

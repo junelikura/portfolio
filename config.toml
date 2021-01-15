@@ -1,13 +1,14 @@
 # Site settings
 
-baseurl = "/"
-
+baseurl = "https://www.jyotsnadhakal.com/"
 title = "Jyotsna Dhakal"
 languageCode = "en-us"
 theme = "frances"
 
-# ensure base url is always prefixed to all asset urls
-# (needed for serving frances theme js/css properly)
+# enable specifying emojis in page content (eg: :wave:)
+enableEmoji = true
+
+# turn relative urls into absolute
 canonifyURLs = true
 
 # enable all of theme's menu items
@@ -29,10 +30,10 @@ disableKinds = ["page", "taxonomy", "term"]
 [markup.goldmark.renderer]
 unsafe= true
 
+# site params
 [params]
-  name = "Jyotsna Dhakal"
+  author = "Jyotsna Dhakal"
   # TODO
   #description = "Illustrator and graphic designer"
   email = "hello@jyotsnadhakal.com"
-  author = "Jyotsna Dhakal"
   keywords = "illustration, graphic design, art, illustrator, graphic designer, artist"

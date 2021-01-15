@@ -34,6 +34,10 @@ disableKinds = ["page", "taxonomy", "term"]
 #  title = "About Me"
 #  url = "/about/"
 
+# render raw html
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
   name = "Jyotsna Dhakal"
   #description = "" # TODO

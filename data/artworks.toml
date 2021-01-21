@@ -1,34 +1,10 @@
 [[artworks]]
-#title = "Acrylic on wood panels"
+#title = "Commissioned cover illustration submission for <i>Neuron</i> journal"
 #alt = "TODO alt"
-#description = "TODO description"
-mediums = "Acrylic on wood panels"
-image = "img/collage-painting.jpg"
-thumb = "img/thumbs/collage-painting.png"
-
-[[artworks]]
-#title = "Watercolor"
-#alt = "TODO alt"
-#description = "TODO description"
-mediums = "Watercolor"
-image = "img/mani1.jpg"
-thumb = "img/thumbs/mani1-thumb.gif"
-
-[[artworks]]
-#title = "Watercolor"
-#alt = "TODO alt"
-# = "TODO description"
-mediums = "Watercolor"
-image = "img/mani2.jpg"
-thumb = "img/thumbs/mani2-thumb.gif"
-
-#[[artworks]]
-##title = "Commissioned cover illustration submission for upcoming <i>Neuron</i> journal issue"
-##alt = "TODO alt"
-#description = "Commissioned cover illustration submission for upcoming <i>Neuron</i> journal issue"
-#mediums = "Digital"
-#image = "img/neuron.png"
-#thumb = "img/thumbs/neuron-thumb.png"
+description = "Commissioned cover illustration for <i>Neuron</i> journal"
+mediums = "Digital"
+image = "img/neuron.png"
+thumb = "img/thumbs/neuron-thumb.png"
 
 [[artworks]]
 #title = "Editorial illustration"
@@ -173,3 +149,27 @@ description = "Sketchbook roughs"
 #mediums = "TODO mediums"
 image = "img/sketchbook-roughs.png"
 thumb = "img/thumbs/sketchbook-roughs.png"
+
+[[artworks]]
+#title = "Acrylic on wood panels"
+#alt = "TODO alt"
+#description = "TODO description"
+mediums = "Acrylic on wood panels"
+image = "img/collage-painting.jpg"
+thumb = "img/thumbs/collage-painting.png"
+
+[[artworks]]
+#title = "Watercolor"
+#alt = "TODO alt"
+#description = "TODO description"
+mediums = "Watercolor"
+image = "img/mani1.jpg"
+thumb = "img/thumbs/mani1-thumb.gif"
+
+[[artworks]]
+#title = "Watercolor"
+#alt = "TODO alt"
+# = "TODO description"
+mediums = "Watercolor"
+image = "img/mani2.jpg"
+thumb = "img/thumbs/mani2-thumb.gif"

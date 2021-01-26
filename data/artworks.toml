@@ -79,6 +79,14 @@ image = "img/bookcover2.png"
 thumb = "img/thumbs/bookcover2.png"
 
 [[artworks]]
+#title = "bookcover2"
+#alt = "TODO alt"
+description = "Beverage label mockup"
+mediums = "Digital"
+image = "img/beverage.png"
+thumb = "img/thumbs/beverage.jpg"
+
+[[artworks]]
 #title = "Dog Chew Label"
 #alt = "TODO alt"
 description = "Commissioned label for a dog chew company"
@@ -111,6 +119,22 @@ image = "img/tuck-poster.png"
 thumb = "img/thumbs/tuck-poster-thumb.gif"
 
 [[artworks]]
+#title = "bookcover2"
+#alt = "TODO alt"
+description = "Illustration based on the circlular shape"
+mediums = "Digital"
+image = "img/dining.png"
+thumb = "img/thumbs/dining.jpg"
+
+[[artworks]]
+#title = "bookcover2"
+#alt = "TODO alt"
+description = "Momos"
+mediums = "Digital"
+image = "img/momo.png"
+thumb = "img/thumbs/momo.jpg"
+
+[[artworks]]
 #title = "g7"
 #alt = "TODO alt"
 description = "Commissioned logo iterations for G7 labs"
@@ -130,7 +154,7 @@ thumb = "img/thumbs/type.png"
 #title = "Juggling"
 #alt = "TODO alt"
 description = "Digital animation"
-mediums = "Digital"
+#mediums = "Digital"
 image = "img/juggle.gif"
 thumb = "img/thumbs/juggle.png"
 
@@ -138,7 +162,7 @@ thumb = "img/thumbs/juggle.png"
 #title = "Dervish"
 #alt = "TODO alt"
 description = "Digital animation"
-mediums = "Digital"
+#mediums = "Digital"
 image = "img/dervish.gif"
 thumb = "img/thumbs/dervish.png"
 

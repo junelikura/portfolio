@@ -121,7 +121,7 @@ thumb = "img/thumbs/tuck-poster-thumb.gif"
 [[artworks]]
 #title = "bookcover2"
 #alt = "TODO alt"
-description = "Illustration based on the circlular shape"
+description = "Illustration based on the circular shape"
 mediums = "Digital"
 image = "img/dining.png"
 thumb = "img/thumbs/dining.jpg"
